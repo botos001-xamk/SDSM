@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OtonOmaProjekti</string>
+
+
+    <string-array name="names">
+        <item>Peli1</item>
+        <item>Peli2</item>
+        <item>Peli3</item>
+        <item>Peli4</item>
+    </string-array>
+
+    <string-array name="spinnerData">
+        <item>Kissa</item>
+        <item>Koira</item>
+        <item>Kilpikonna</item>
+    </string-array>
+</resources>
